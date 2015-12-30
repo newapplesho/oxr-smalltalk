@@ -1,0 +1,16 @@
+{
+	"category" : "OXR-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"baseCurrency",
+		"symbols",
+		"client" ],
+	"name" : "OpenExchangeRates",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

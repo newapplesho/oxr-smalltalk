@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"baseCurrency" : "ShoYoshida 12/30/2015 20:51",
+		"baseCurrency:" : "ShoYoshida 12/30/2015 20:51",
+		"baseResourceUrl" : "ShoYoshida 12/30/2015 21:42",
+		"client" : "ShoYoshida 12/30/2015 21:08",
+		"convert:from:to:" : "ShoYoshida 12/30/2015 21:55",
+		"convertUrl" : "ShoYoshida 12/30/2015 21:49",
+		"currenciesUrl" : "ShoYoshida 12/30/2015 22:01",
+		"defaultClient" : "ShoYoshida 12/30/2015 21:08",
+		"defaultResponseClass" : "ShoYoshida 12/30/2015 21:43",
+		"get:" : "ShoYoshida 12/30/2015 21:47",
+		"getCurrencies" : "ShoYoshida 12/30/2015 22:01",
+		"getLatestExchangeRates" : "ShoYoshida 12/30/2015 21:44",
+		"latestUrl" : "ShoYoshida 12/30/2015 21:23",
+		"readJsonFromResponse:" : "ShoYoshida 12/30/2015 21:43",
+		"symbols" : "ShoYoshida 12/30/2015 21:38",
+		"symbols:" : "ShoYoshida 12/30/2015 21:38" } }

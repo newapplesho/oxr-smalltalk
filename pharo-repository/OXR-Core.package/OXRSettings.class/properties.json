@@ -1,0 +1,14 @@
+{
+	"category" : "OXR-Core",
+	"classinstvars" : [
+		"default" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"settingsDict" ],
+	"name" : "OXRSettings",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

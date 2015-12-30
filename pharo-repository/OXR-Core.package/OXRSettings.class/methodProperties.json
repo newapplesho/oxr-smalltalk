@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"default" : "ShoYoshida 12/30/2015 20:55",
+		"initialize" : "ShoYoshida 12/30/2015 20:55" },
+	"instance" : {
+		"applicationId" : "ShoYoshida 12/30/2015 20:56",
+		"applicationId:" : "ShoYoshida 12/30/2015 20:56",
+		"at:" : "ShoYoshida 12/30/2015 20:55",
+		"at:ifAbsent:" : "ShoYoshida 12/30/2015 20:56",
+		"at:ifAbsentPut:" : "ShoYoshida 12/30/2015 20:56",
+		"at:put:" : "ShoYoshida 12/30/2015 20:56",
+		"settingsDict" : "ShoYoshida 12/30/2015 21:31" } }

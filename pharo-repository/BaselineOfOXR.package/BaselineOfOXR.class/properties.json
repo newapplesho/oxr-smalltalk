@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfOXR",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfOXR",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

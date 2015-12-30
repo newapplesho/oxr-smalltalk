@@ -1,0 +1,14 @@
+{
+	"category" : "OXR-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"properties" ],
+	"name" : "OXRException",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }
