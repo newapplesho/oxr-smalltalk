@@ -1,5 +1,5 @@
 # Open Exchange Rates
-Pharo Smalltalk wrapper for the Open Exchange Rates API
+Pharo Smalltalk wrapper for the [Open Exchange Rates API](https://openexchangerates.org).
 
 ## Installation
 
