@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfOXR",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfOXR",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
