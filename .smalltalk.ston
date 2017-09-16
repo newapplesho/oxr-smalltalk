@@ -5,5 +5,8 @@ SmalltalkCISpec {
       #directory : 'pharo-repository',
       #platforms : [ #pharo ]
     }
-  ]
+  ],
+  #testing : {
+    #failOnZeroTests : false
+  }
 }
