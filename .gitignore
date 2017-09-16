@@ -13,6 +13,11 @@ SqueakDebug.log
 # Monticello package cache
 /package-cache
 
+# playground cache
+/pharo-local
+/play-cache
+/play-stash
+
 # Metacello-github cache
 /github-cache
 github-*.zip

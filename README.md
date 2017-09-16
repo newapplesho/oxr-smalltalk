@@ -1,6 +1,9 @@
 # Open Exchange Rates [![Build Status](https://travis-ci.org/newapplesho/oxr-smalltalk.svg?branch=master)](https://travis-ci.org/newapplesho/oxr-smalltalk)
 Pharo Smalltalk wrapper for the [Open Exchange Rates API](https://openexchangerates.org).
 
+## Requirement
+  - Pharo 3.0, Pharo 4.0, Pharo 5.0, Pharo 6.0, Pharo 6.1
+
 ## Installation
 
 ```smalltalk
@@ -8,16 +11,6 @@ Metacello new
     baseline: 'OXR';
     repository: 'github://newapplesho/oxr-smalltalk:v0.1/pharo-repository';
     load.
-```
-
-or
-
-```smalltalk
-Gofer new
-url:'http://smalltalkhub.com/mc/newapplesho/oxr-smalltalk/main';
-    package: 'ConfigurationOfOXR';
-    load.
-(Smalltalk at: #ConfigurationOfOXR) load.
 ```
 
 ## set up
