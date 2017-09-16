@@ -1,4 +1,4 @@
-# Open Exchange Rates
+# Open Exchange Rates [![Build Status](https://travis-ci.org/newapplesho/oxr-smalltalk.svg?branch=master)](https://travis-ci.org/newapplesho/oxr-smalltalk)
 Pharo Smalltalk wrapper for the [Open Exchange Rates API](https://openexchangerates.org).
 
 ## Installation
